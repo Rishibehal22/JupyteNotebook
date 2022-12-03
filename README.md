@@ -1,1 +1,1 @@
-# JupyteNotebook
+# Tesla Stock Vs Gamestop Stock
